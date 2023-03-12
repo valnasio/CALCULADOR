@@ -1,0 +1,76 @@
+img{
+    
+    width: 100%;
+    box-align: center;
+    position: center;
+}
+
+
+body {
+    background:url('./imagens/bg-imc.jpg');   
+    background-size: 100%;   
+    font-size: 200%;
+    margin: 0 auto;
+    max-width: 300%;
+    line-height: 1.5em;                              
+    text-align: center;                                                 
+    width: 50% ;
+    padding: 200px;
+    position: center;
+    
+    
+ }
+
+    
+    
+ 
+footer {
+    color: black;    
+    font-size: 40%; 
+    bottom: 0;
+    position: fixed;
+    width: 50%;
+    text-align: center;
+ }
+
+.container { 
+
+position: center;
+box-align: center;
+
+}
+
+
+.child {                              
+position: absolute;
+top: 25%;
+
+}
+
+.tabela{
+    
+    align-items: center;
+    border-radius: 21px;
+    background-color: rgb(255, 255, 255);
+    margin: 0;    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    opacity: 1.0;
+    transform: translate(-50%, -50%)  
+    
+}
+.imagem{
+width: 60%;
+
+
+}
+
+
+input{
+    justify-content:center;
+    position: absolute; 
+    bottom: 5%;
+    margin-right: -50%;
+}
